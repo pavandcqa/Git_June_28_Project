@@ -1,0 +1,6 @@
+// This page is for Login Tests
+
+@Test 
+public void test_login_with_valid_credentials(){
+	Sysout("This is login test")
+}
